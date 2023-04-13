@@ -1,7 +1,8 @@
 # DiogoReisDev-CEP_Locations
 =============================
+
 Localizador de endereço com base no CEP
-----------------------------------------
+
 #  Tecnologias utilizadas:
 ---------------------------
 O projeto é desenvolvido utilizando a [Linguagem Python](https://www.python.org/).
