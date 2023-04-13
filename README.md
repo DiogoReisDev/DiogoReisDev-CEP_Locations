@@ -3,8 +3,8 @@
 
 Localizador de endereço com base no CEP
 
-#  Tecnologias utilizadas:
----------------------------
+Tecnologias utilizadas:
+------------------------
 O projeto é desenvolvido utilizando a [Linguagem Python](https://www.python.org/).
 
 As Bibliotecas que importamos até o momento atual foram:
